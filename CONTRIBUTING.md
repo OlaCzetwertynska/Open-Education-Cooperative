@@ -1,12 +1,11 @@
-# Contributing to [Project]
+# Contributing to [Open Education Cooperative]
 
 Add a bit of welcome and cheer at the top
->Thank you for your interest in contributing to [Project] :tada:! 
+>Thank you for your interest in contributing to Open Education Cooperative :tada:! 
 
 Restart your project vision here. Redundancy is your friend
->[Project] is ...
+>[The Open Education Cooperative] is the movement for teachers and educators who want to work and teach open. We believe that openness needs cooperation and support from deferent environments. The method is based on cooperation and openness as well as the knowledge exchange and bonds building with the communities which do not operate in education on a daily basis. The project enhances the role of students in school in such a way that they have impact on the materials which they learn from. The teachers will become the ambassadors of openness and democratic education in their environment. The project is hold by education team of Centrum Cyfrowe. We start first workshops for teachers in march 2018. On the end of June we will have first effects of our work. Four new open education resources for mathematic. In the same time we are working on online course. Right now we are looking for good practices and materials from all over the world.
 
-Add some info on *why* people should read your contributor guidelines and *what* they are.
 
 >This documents is a set of guidelines for contributing to [Project] on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
@@ -26,13 +25,15 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 This is a good place to link your Roadmap, GitHub Milestones, or Projects so newcomers can see what you're working on.
 
+During MozSpirnt we are working on:
+1. The map of good practices: we are looking for different ideas of making and using OER and also some models of cooperation in education - between teachers, teachers and students and school/bussines/art/politics
+2. We are looking for good places and people to promote our idea and materials. 
+
 > Take a look at the issues in our [current milestone](https://github.com/acabunoc/mozfest-repo-template/milestone/1) or browse some [good first bugs](https://github.com/acabunoc/mozfest-repo-template/labels/good%20first%20bug) to get started!
 
 Take a look at this [Roadmapping exercise](http://mozillascience.github.io/working-open-workshop/roadmapping/) to start making your own milestones and issues. This will help newcomers (& MozFest attendees!) know where they can help.
 
 ## How to submit changes
-
-Explain how you want contributors to propose changes. For an example GitHub workflow, see Node.js's [instructions for code contributions](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-contributions).
 
 > Once you've identified one of the issues above that you feel you can contribute to, you're ready to make a change to the project repository!
  
