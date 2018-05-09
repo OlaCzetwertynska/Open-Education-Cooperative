@@ -3,11 +3,11 @@ The Open Education Cooperative is the movement for teachers and educators who wa
 
 Open Education Cooperative is young project conduct by think and do tank organisation Centrum Cyfrowe (Digital Center). We are very glad that you are interested with this particular project. Our project is workingo on the edge of economy, education and new technologys. We are thinking how to make access to good education easer for everyone. How to provide good tools for teachers and good arguments  for politicions. Thats why we started with very specific actions.
 
-    Organizing 4 working meetings for 15 teachers from Poland – inviting specialists from all over the country and Europe for cooperation in order to support the teachers in the preparation of materials
-    Pilotage of materials at schools
-    Materials adjustment after obtaining the students’ opinions
-    Promotion of the materials and the method of their creation by the teachers participating in the project
-    Creating online course to introduce and corporete the method to everyone
+- Organizing 4 working meetings for 15 teachers from Poland – inviting specialists from all over the country and Europe for cooperation in order to support the teachers in the preparation of materials
+- Pilotage of materials at schools
+- Materials adjustment after obtaining the students’ opinions
+- Promotion of the materials and the method of their creation by the teachers participating in the project
+- Creating online course to introduce and corporete the method to everyone
 
 In the future we also thinking about using this method in international projects.
 
